@@ -1,2 +1,2 @@
 # Weather-App
-Real-time chat application
+ Weather Application
